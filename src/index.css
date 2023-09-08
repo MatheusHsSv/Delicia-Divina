@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Satisfy', cursive;
+}
+
+body{
+    background-image: url(../img/background.jpg); 
+    
+}
+
+html{
+    scroll-padding-top: 150px;
+    scroll-behavior: smooth;
+    
+}
+
+
